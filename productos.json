@@ -1,0 +1,20 @@
+[
+    {
+        "id": 1,
+        "nombre": "Banco Reclinable",
+        "precio": 100.00,
+        "imagen": "product1.jpg"
+    },
+    {
+        "id": 2,
+        "nombre": "Proteina en Polvo",
+        "precio": 25.00,
+        "imagen": "product2.jpg"
+    },
+    {
+        "id": 3,
+        "nombre": "Libro HEAVY DUTY",
+        "precio": 15.00,
+        "imagen": "product3.jpg"
+    }
+]
